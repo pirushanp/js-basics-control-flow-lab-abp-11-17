@@ -5,7 +5,7 @@ function scuberGreetingForFeet(){
     return "This one is on me!"
   }
   const z = 2001
-  else if (z >= 2001){
+   if (z >= 2001){
     return "I will gladly take your thirty bucks."
   }
 }
