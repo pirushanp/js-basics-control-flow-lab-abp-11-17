@@ -1,11 +1,11 @@
 // Write your code in this file!
 function scuberGreetingForFeet(){
-  var scuberGreetingForFeet = 199
-  if (scuberGreetingForFeet <= 400){
+  const xy = 199
+  if (xy <= 400){
     return "This one is on me!"
   }
-  var scuberGreetingForFeet = 2001
-  if (scuberGreetingForFeet >= 2001){
+  const z = 2001
+  if (z >= 2001){
     return "I will gladly take your thirty bucks."
   }
 }
